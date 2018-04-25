@@ -1,0 +1,1 @@
+alter table renc_investimento change renc_medio renc_medio double;

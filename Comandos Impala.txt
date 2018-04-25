@@ -1,0 +1,3 @@
+use dcd;
+set live_progress=true;
+invalidate metadata;
